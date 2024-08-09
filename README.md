@@ -1,1 +1,4 @@
-## ¡Hola! 👋 Soy un Estudiante de Ciencias de la Computación en la Universidad de la Habana
+## Hello! 👋 I'm a Computer Science Student at the University of Havana
+
+## 📫 How to Reach Me
+- **Email**: [chertapro@gmail.com](mailto:chertapro@gmail.com)
