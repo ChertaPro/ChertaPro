@@ -2,15 +2,15 @@
 <h3 align="center">3rd-year Computer Science student @ University of Havana (MATCOM)</h3>
 
 <p align="center">
-Interested in systems programming (C/Rust), simulation, and applied AI/ML. I build software engineering projects and share what I learn along the way.
+Interested on applied AI and full-stack development. I build complete, working systems and share what I learn along the way.
 </p>
 
 # 💫 About Me:
-- 🔭 I'm currently building AI-driven applications and solid software engineering foundations — and open to internship/job opportunities
-- 👯 I'm looking to collaborate on low-level systems projects (C, Rust) and applied AI/ML projects
+- 🔭 I'm currently building AI-driven applications, low-level systems projects and full-stack projects — and open to internship/job opportunities
+- 🧑‍🤝‍🧑 I'm looking to collaborate on applied AI/ML and full-stack projects
 - 🤝 I'm looking for help with internship/job referrals and feedback on my projects
 - 🌱 I'm currently learning applied ML/LLMs
-- 💬 Ask me about AI-driven software, compilers and systems programming.
+- 💬 Ask me about applied AI, full-stack development, and RAG systems.
 - ⚡ Fun fact: Away from the keyboard, I train for HYROX.
 
 ## 🌐 Socials:
@@ -22,13 +22,13 @@ Interested in systems programming (C/Rust), simulation, and applied AI/ML. I bui
 # 🚀 Featured Projects
 
 <p>
-<a href="https://github.com/ChertaPro/http_server"><img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=ChertaPro&repo=http_server&theme=dark" /></a>
-<a href="https://github.com/ChertaPro/hulk-compiler"><img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=ChertaPro&repo=hulk-compiler&theme=dark" /></a>
 <a href="https://github.com/ChertaPro/fotball_irs"><img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=ChertaPro&repo=fotball_irs&theme=dark" /></a>
 <a href="https://github.com/ChertaPro/clinical-triage-optimizer"><img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=ChertaPro&repo=clinical-triage-optimizer&theme=dark" /></a>
+<a href="https://github.com/ChertaPro/http_server"><img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=ChertaPro&repo=http_server&theme=dark" /></a>
+<a href="https://github.com/ChertaPro/hulk-compiler"><img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=ChertaPro&repo=hulk-compiler&theme=dark" /></a>
 </p>
 
-**🏥 [Polyclinic Management System](https://github.com/polyclinic-project-2025)** — Software Engineering team project (4-repo org: backend, frontend, database, docs) building a full clinic management system with a modular architecture.
+**🏥 [Polyclinic Management System](https://github.com/polyclinic-project-2025)** — Full-stack Software Engineering team project (4-repo org: backend, frontend, database, docs) building a complete clinic management system with a modular architecture.
 
 ### Other projects worth a look
 - **[overloaded_harbor](https://github.com/ChertaPro/overloaded_harbor)** — Discrete-event simulation of an overloaded harbor
