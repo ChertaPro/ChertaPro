@@ -36,7 +36,6 @@ Interested in systems programming (C/Rust), simulation, and applied AI/ML. I bui
 - **[hex_smart_player](https://github.com/ChertaPro/hex_smart_player)** — AI agent for the game of Hex
 
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=ChertaPro&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ChertaPro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
